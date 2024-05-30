@@ -1,0 +1,47 @@
+body{
+    background-color:ivory;
+}
+.pictures{
+    margin: 0.5rem;
+}
+.pictures img{
+    
+    border-radius: 10px;
+}
+
+.ricerca{
+    text-align: center;
+}
+
+.ricerca input{
+    border-radius: 20px;
+    border: solid 0.5px gray;
+    padding: 10px;
+    background-color: ivory;
+}
+
+#tipologia{
+    border-radius: 10px;
+    border: solid 0.5px gray;
+    padding: 10px;
+    background-color: ivory;
+}
+
+#tipologia:hover{
+    font-weight: bold;
+}
+
+.bottoneCerca{
+    text-align: center;
+}
+.bottoneCerca input{
+    border-radius: 10px;
+    border: solid 0.5px gray;
+    padding: 10px;
+    background-color: ivory;
+}
+
+.bottoneCerca input:hover{
+    font-weight: bold;
+}
+
